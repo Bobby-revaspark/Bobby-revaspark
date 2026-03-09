@@ -16,8 +16,6 @@ Dynamic and results-oriented developer at **Micro Technologies** with 2 years of
 <a href="mailto:rajbobby594@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/917898575180" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://instagram.com/bobbyyy_80" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://facebook.com/Bobby-Raj-Bhasneiya" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://x.com/Bobby-Bhasneiya" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
