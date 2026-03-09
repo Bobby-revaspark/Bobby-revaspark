@@ -33,18 +33,7 @@ Dynamic and results-oriented developer at **Micro Technologies** with 2 years of
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-# 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bobby-revaspark&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobby-revaspark&theme=tokyonight" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-revaspark&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Bobby-revaspark&icon=7&color=12" alt="Visitor Count" />
 </p>
