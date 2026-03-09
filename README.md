@@ -35,5 +35,5 @@ Dynamic and results-oriented developer at **Micro Technologies** with 2 years of
 
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bobby-revaspark&icon=7&color=12" alt="Visitor Count" />
+ 
 </p>
