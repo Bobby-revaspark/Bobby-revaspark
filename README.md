@@ -1,12 +1,10 @@
 # 💫 About Me:
 
 ### 🚀 Full-Stack Developer & Digital Marketing Specialist
-I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 2 years of experience building scalable web apps and executing high-impact digital campaigns. I bridge the gap between robust engineering and effective market visibility.
+I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 2 years of experience building scalable web apps and executing high-impact digital campaigns.
 
 * 🔭 **Currently working on:** Developing modern web applications and scalable architecture at **Micro Technologies**.
 * 👯 **Collaborating on:** Open-source projects involving **Next.js**, **Payload CMS**, and **AWS**.
-* 🤝 **Looking for help with:** Advanced DevOps automation and mastering microservices.
-* 🌱 **Learning:** Cloud-native development and data-driven SEO analytics.
 * 💬 **Ask me about:** React/Next.js, **Payload CMS**, SEO Strategy, and AWS deployments.
 * ⚡ **Fun fact:** I don't just build the product; I know how to rank it on the first page of Google!
 
@@ -16,6 +14,7 @@ I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 
 <p align="left">
 <a href="https://linkedin.com/in/Bhumit-raj-Bhasneiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhumit raj Bhasneiya" height="30" width="40" /></a>
 <a href="mailto:rajbobby594@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rajbobby594" height="30" width="40" /></a>
+<a href="https://wa.me/917898575180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://instagram.com/bobbyyy_80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bobbyyy_80" height="30" width="40" /></a>
 <a href="https://facebook.com/Bobby-Raj-Bhasneiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bobby Raj" height="30" width="40" /></a>
 <a href="https://x.com/Bobby-Bhasneiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bobby" height="30" width="40" /></a>
@@ -34,18 +33,15 @@ I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📈 Marketing & Design
-![SEO](https://img.shields.io/badge/SEO-Growth-brightgreen?style=for-the-badge&logo=google-search-console&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ---
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bobby-revaspark&theme=dark&show_icons=true&hide_border=false" alt="Bobby's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bobby-revaspark&show_icons=true&theme=dark" alt="Bobby's GitHub Stats" />
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Bobby-revaspark&theme=dark&hide_border=false" alt="Bobby's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobby-revaspark&theme=dark" alt="Bobby's Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-revaspark&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-revaspark&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
