@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ### 🚀 Full-Stack Developer & Digital Marketing Specialist
-Dynamic and results-oriented developer at **Micro Technologies** with 2 years of experience. I specialize in building scalable web applications and optimizing brand presence through advanced SEO and marketing strategies.
+Dynamic and results-oriented developer at **Micro Technologies** with 3+ years of experience. I specialize in building scalable web applications and optimizing brand presence through advanced SEO and marketing strategies.
 
 * 🔭 **Currently working on:** Modern web architecture & scalable systems at **Micro Technologies**.
 * 👯 **Collaborating on:** Open-source projects involving **Next.js**, **Payload CMS**, and **AWS**.
