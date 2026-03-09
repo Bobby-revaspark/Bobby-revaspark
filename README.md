@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 ### 🚀 Full-Stack Developer & Digital Marketing Specialist
-I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 2 years of experience building scalable web apps and executing high-impact digital campaigns.
+Dynamic and results-oriented developer at **Micro Technologies** with 2 years of experience. I specialize in building scalable web applications and optimizing brand presence through advanced SEO and marketing strategies.
 
-* 🔭 **Currently working on:** Developing modern web applications and scalable architecture at **Micro Technologies**.
+* 🔭 **Currently working on:** Modern web architecture & scalable systems at **Micro Technologies**.
 * 👯 **Collaborating on:** Open-source projects involving **Next.js**, **Payload CMS**, and **AWS**.
 * 💬 **Ask me about:** React/Next.js, **Payload CMS**, SEO Strategy, and AWS deployments.
 * ⚡ **Fun fact:** I don't just build the product; I know how to rank it on the first page of Google!
@@ -12,12 +12,12 @@ I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 
 
 ## 🌐 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/Bhumit-raj-Bhasneiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhumit raj Bhasneiya" height="30" width="40" /></a>
-<a href="mailto:rajbobby594@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rajbobby594" height="30" width="40" /></a>
-<a href="https://wa.me/917898575180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://instagram.com/bobbyyy_80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bobbyyy_80" height="30" width="40" /></a>
-<a href="https://facebook.com/Bobby-Raj-Bhasneiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bobby Raj" height="30" width="40" /></a>
-<a href="https://x.com/Bobby-Bhasneiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bobby" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Bhumit-raj-Bhasneiya" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rajbobby594@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/917898575180" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://instagram.com/bobbyyy_80" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://facebook.com/Bobby-Raj-Bhasneiya" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://x.com/Bobby-Bhasneiya" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@ I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -37,14 +37,14 @@ I am a results-oriented **Full-Stack Developer** at **Micro Technologies** with 
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bobby-revaspark&show_icons=true&theme=dark" alt="Bobby's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bobby-revaspark&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobby-revaspark&theme=dark" alt="Bobby's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bobby-revaspark&theme=tokyonight" alt="GitHub Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-revaspark&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-revaspark&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bobby-revaspark&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=Bobby-revaspark&icon=7&color=12" alt="Visitor Count" />
 </p>
